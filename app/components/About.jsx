@@ -6,7 +6,7 @@ var About = (props) => {
     <div>
       <h1 className='text-center'>About</h1>
       <h4 className='text-center'>Welcome to the About Page</h4>
-      <p>Hi, I'm Laura and this is the weather app I made in the <a href='https://www.udemy.com/the-complete-react-web-app-developer-course/learn/v4/overview'> Udemy "The Complete React Web App Developer Course"</a></p>
+      <p>Hi, I'm Laura and this is the weather app I made in the <a href='https://www.udemy.com/the-complete-react-web-app-developer-course/learn/v4/overview'>Udemy The Complete React Web App Developer Course</a></p>
       <p>This app is made with:
         <ul>
           <li><a href='https://nodejs.org/en/'>Node,</a></li>
