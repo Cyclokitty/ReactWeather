@@ -1,0 +1,25 @@
+.page-title {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+input[type=search] {
+  box-shadow: none;
+}
+
+body {
+  background-color: #E91E63;
+  color: #212121;
+}
+
+a {
+  color: #727272;
+}
+
+a:hover {
+  color: #536DFE;
+}
+
+li a {
+  color: #B6B6B6;
+}
