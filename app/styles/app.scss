@@ -1,0 +1,33 @@
+$space-large: 2.5rem;
+$dark-font: #212121;
+$dark-grey: #727272;
+$light-grey: #B6B6B6;
+$med-blue: #536DFE;
+$hot-pink: #E91E63;
+
+.page-title {
+  margin-top: $space-large;
+  margin-bottom: $space-large;
+}
+
+input[type=search] {
+  box-shadow: none;
+}
+
+body {
+  background-color: $hot-pink;
+  color: $dark-font;
+
+}
+
+a {
+  color: $dark-grey;
+}
+
+a:hover {
+  color: $med-blue;
+}
+
+li a {
+  color: $light-grey;
+}
